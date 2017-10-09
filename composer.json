@@ -1,0 +1,8 @@
+{
+    
+    "require": {
+        "google/cloud-bigquery": "^0.2.4",
+        "google/cloud-datastore": "^1.0",
+        "google/cloud": "^0.39.2"
+    }
+}
